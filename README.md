@@ -61,4 +61,3 @@ Para produzir esta PCB, siga estas etapas:
 Este projeto pode ser usado para alimentar circuitos como microcontroladores, sensores e outros dispositivos de baixa potência que necessitam de **5V DC regulados**.
 
 ---
-
