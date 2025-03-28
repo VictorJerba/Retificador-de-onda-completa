@@ -62,4 +62,3 @@ Este projeto pode ser usado para alimentar circuitos como microcontroladores, se
 
 ---
 
-Se precisar de ajustes ou personalizações no README, me avise! 🚀
